@@ -1,4 +1,5 @@
 ** Backlink dofollow model redirect link dari website ber DA besar **
+- Lihat " Backlink list " dibawah
 - Ganti contoh website dibawah (bmamasstransit.com) dengan nama domain yg ingin diberi backlink
 - Kemudian backlink2 tersebut harus terindex di Google atau bing (sesuai targetnya), untuk google bisa menggunakan cara seperti di group yg dulu pernah menggunakan https://paiza.io/en/projects/new untuk mengindex halaman spam
 _ _ untuk bing, kita bisa upayakan dengan cara masukkan backlink dibawah (domainnya pastikan sudah diganti/bukan bmamasstransit.com) pada website2 dibawah ini:
