@@ -1,1 +1,31 @@
+** Backlink dofollow model redirect link **
+- Ganti contoh website dibawah (bmamasstransit.com) dengan nama domain yg ingin diberi backlink
 
+
+https://t.me/iv?url=https://bmamasstransit.com
+https://www.youtube.com/redirect?q=https://bmamasstransit.com
+http://wikimapia.org/external_link?url=https://bmamasstransit.com
+
+https://plus.google.com/url?q=bmamasstransit.com
+
+http://images.google.de/url?q=bmamasstransit.com
+
+http://images.google.it/url?q=https://bmamasstransit.com
+
+https://www2.ogs.state.ny.us/help/urlstatusgo.html?url=https://bmamasstransit.com
+
+http://www.google.es/url?q=bmamasstransit.com
+
+http://www.google.fr/url?q=https://bmamasstransit.com
+
+http://www.google.it/url?q=https://bmamasstransit.com
+
+http://www.google.cz/url?q=https://bmamasstransit.com
+
+http://maps.google.com/url?sa=t&url=https://bmamasstransit.com
+
+http://ipv4.google.com/url?q=https://bmamasstransit.com
+
+http://cr.naver.com/redirect-notification?u=https://bmamasstransit.com
+
+https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=60610D15439B4103A0BF4E1051EDCF8B&url=https://bmamasstransit.com
